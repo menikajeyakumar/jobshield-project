@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: jobshield
+    env: node
+    buildCommand: npm run build
+    startCommand: npm start
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
