@@ -1,0 +1,17 @@
+{
+  "name": "jobshield-backend",
+  "version": "1.0.0",
+  "description": "JobShield Node.js Express server wrapping Python FastAPI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "http-proxy-middleware": "^3.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.0"
+  }
+}
