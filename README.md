@@ -20,15 +20,6 @@ node server.js
 ```
 Open **`http://localhost:8000`** in your browser.
 
----
-
-## 🔑 Admin Credentials
-- **Admin URL:** `http://localhost:8000/` (Opens automatically as default page)
-- **Username:** `Menikaram`
-- **Password:** `menika123`
-
----
-
 ## 📁 System Architecture & Features
 
 ### Left Sidebar Navigation
